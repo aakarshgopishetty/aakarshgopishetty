@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Docker and secure development practices**
 
-- 👯 I’m looking to collaborate on **API Dash and OWASP open-source projects**
-
 - 🤝 I’m looking for help with **React and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aakarshgopishetty](https://github.com/aakarshgopishetty)
